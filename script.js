@@ -42,7 +42,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
  
 
-  const BLOW_THRESHOLD = 150;
+  const BLOW_THRESHOLD = 75;
 
 
 const audio = new Audio("hbd.mp3");
